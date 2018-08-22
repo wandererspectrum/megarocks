@@ -1,2 +1,2 @@
-# megarocks
-For stimulation of parallel worlds.
+### megarocks
+#For stimulation of reality in virtual world.
